@@ -7,7 +7,7 @@
 
 # Project Title
 
-Briefly describe your project here.
+My Personal Project
 
 ## Table of Contents
 
