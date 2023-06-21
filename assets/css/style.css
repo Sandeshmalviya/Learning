@@ -1430,7 +1430,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #37517e;
+  color: #648bd8;
 }
 
 .contact .info p {
@@ -1821,4 +1821,7 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+}
+#p{
+  color: #e7f5fb;
 }
